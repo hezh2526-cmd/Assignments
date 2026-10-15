@@ -1,2 +1,5 @@
 # Assignments
-Course-assignments
+Store my undergradudate course assignments
+Xdu   Artificial Intelligence
+
+Directory
