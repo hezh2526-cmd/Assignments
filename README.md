@@ -1,5 +1,9 @@
 # Assignments
-Store my undergradudate course assignments
-Xdu   Artificial Intelligence
 
-Directory
+Undergraduate course assignments in Artificial Intelligence at Xidian University.
+
+## Courses
+
+### Data-driven optimization
+
+- NSGA-II — Multi-objective optimization algorithm reproduction
