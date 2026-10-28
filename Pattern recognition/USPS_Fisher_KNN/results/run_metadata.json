@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-10-20T15:32:59.718451+00:00",
+  "elapsed_seconds": 219.39457140001468,
+  "config": {
+    "random_seed": 42,
+    "train_ratios": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "k_values": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      15
+    ],
+    "repeats": 5,
+    "reference_train_ratio": 0.7,
+    "validation_ratio_within_train": 0.2,
+    "n_jobs": -1,
+    "dpi": 180,
+    "figure_format": "png",
+    "datasets": [
+      "usps",
+      "sonar"
+    ],
+    "methods": [
+      "Fisher LDA",
+      "KNN",
+      "Fisher+KNN"
+    ]
+  },
+  "versions": {
+    "python": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.8.0",
+    "matplotlib": "3.10.8"
+  }
+}
