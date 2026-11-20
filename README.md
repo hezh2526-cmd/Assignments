@@ -7,6 +7,7 @@ Undergraduate course assignments in Artificial Intelligence at Xidian University
 ### Data-driven optimization
 
 - NSGA-II — Multi-objective optimization algorithm reproduction
+- LLM-Assisted Evolutionary Optimization — LLM-generated surrogate-assisted evolutionary optimization for binary black-box feature selection
 
 ### Pattern recognition
 
